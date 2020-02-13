@@ -63,4 +63,22 @@ h1, h2, h3, h4, h5 {
     margin-bottom: 15px;
 }
 
-/* Your code starts here! */
+/* Your code starts here! */	
+.navigation{
+	display: inline-block;
+	width: 70%;
+	margin:5px
+	color: grey
+}
+
+.navigation a{
+	padding: 20px;
+	font-size:8px;
+}
+
+.logo{
+	display: inline-block;
+	width:110px;
+	height:25px;
+	margin:10px;
+}
